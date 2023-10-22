@@ -6,3 +6,6 @@
   
 ## Datos:
 El data set de Kaggle utilizado fue[  Real / Fake Job Posting Prediction](https://www.kaggle.com/datasets/shivamb/real-or-fake-fake-jobposting-prediction). Se realizaron modificaciones para cumplir los criterios pedidos
+
+## Videos:
+- Avance 2: https://youtu.be/hRJsfE5IjJo
