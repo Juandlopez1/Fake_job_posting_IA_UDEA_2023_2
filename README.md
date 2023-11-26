@@ -9,3 +9,4 @@ El data set de Kaggle utilizado fue[  Real / Fake Job Posting Prediction](https:
 
 ## Videos:
 - Avance 2: https://youtu.be/hRJsfE5IjJo
+- Entrega Final: https://youtu.be/HRn3AGoig1c?si=abEE-Avxbair3WQF
